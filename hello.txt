@@ -1,2 +1,4 @@
 Hello from main branch
+Hello from feature_c branch
+Hello from Feature-B branch
 Hello from Feature-A branch
